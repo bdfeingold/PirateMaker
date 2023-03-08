@@ -2,6 +2,9 @@
 Project files for a Mario Maker inspired game
 Made by Christian Koch / Clear Code 
 
+Video tutorial is https://youtu.be/qYomF9p_SYM
+Forked from https://github.com/clear-code-projects/PirateMaker
+
 The code is public domain / CC0. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 Attribution would be appreciated but is not required. 
 More information on the license: https://creativecommons.org/publicdomain/zero/1.0/
